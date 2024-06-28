@@ -10,4 +10,7 @@ Algo HelloWorld {
         Afficher la fenêtre
     }
 }
-Mettre le fond d’écran en jaune
+
+Changer la couleur du texte principal en bleu
+Changer la couleur de fond en vert
+
